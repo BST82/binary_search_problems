@@ -26,5 +26,8 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "C_Cpp.errorSquiggles": "Enabled"
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "functional": "cpp"
+  }
 }
